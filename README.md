@@ -8,3 +8,8 @@ The main presentation of this mini app is to implement MVC in order to separate 
 ![](screenshot/02.png?best=true)
 ![](screenshot/03.png?best=true)
 ![](screenshot/04.png?best=true)
+
+
+Included Adobe XD Design
+File is located at "adobexd" folder
+![](screenshot/xd.png?best=true)
