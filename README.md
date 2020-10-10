@@ -1,7 +1,7 @@
 # Flutter Users
 
 Beautiful Flutter Login and Registration page with fully functional REST API Authentication using Node.JS and MySQL Database.
-It implements MVC to separate the UI from the business logic and data model.
+It implements MVC pattern to separate the UI from the business logic and data model.
 
 
 ![](screenshot/01.png?best=true)
