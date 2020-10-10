@@ -1,5 +1,6 @@
 name: flutter_users
-description: A new Flutter application.
+description: Beautiful Flutter Login and Registration page with fully functional REST API Authentication using Node and MySQL Database. It implements MVC to separate the UI from the business logic and data model.
+homepage: https://github.com/cmnworks/flutter_users
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `pub publish`. This is preferred for private packages.
