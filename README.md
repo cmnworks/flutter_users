@@ -10,8 +10,8 @@ It implements MVC pattern to separate the UI from the business logic and data mo
 ![](screenshot/03.png?best=true)
 ![](screenshot/04.png?best=true)
 
-## Node.JS Users API
-After downloading the Flutter Login and Registration page, download or clone the [Node.JS Users API](https://github.com/cmnworks/node_users_api)
+## Nodejs Users API
+After downloading the Flutter Login and Registration page, download or clone the [Nodejs Users API](https://github.com/cmnworks/nodejs_users_api)
 
 ## Config
 Just change the IP Address on where "Node Users API" installed
