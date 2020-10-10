@@ -13,6 +13,9 @@ It implements MVC to separate the UI from the business logic and data model.
 ## Node Users API
 After downloading the Flutter Login and Registration page, download the [Node Users API](https://github.com/cmnworks/node_users_api)
 
+## Config
+Just change the IP Address on where "Node Users API" installed
+
 ## Adobe XD Design Included 
 
 XD File is located at "adobexd" folder
