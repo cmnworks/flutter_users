@@ -11,7 +11,6 @@ It implements MVC to separate the UI from the business logic and data model.
 ![](screenshot/04.png?best=true)
 
 ## Node Users API
-I wrote this script using Node and Express.
 After downloading the Flutter Login and Registration page, download the [Node Users API](https://github.com/cmnworks/node_users_api)
 
 ## Adobe XD Design Included 
